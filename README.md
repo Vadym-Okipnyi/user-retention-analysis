@@ -1,2 +1,12 @@
-# cohort-retention-analysis
-Conducted cohort analysis using SQL and Google Sheets to evaluate user retention and compare the behavior of promo and organic users. Cleaned and transformed data, built cohort tables and interactive dashboards, and identified retention trends and acquisition quality across different traffic sources.
+# User Retention Analysis
+Cohort and retention analysis project using SQL and Google Sheets.
+
+## Tools
+- SQL
+- Google Sheets
+
+## Project Goals
+- Analyze user retention trends
+- Compare promo and organic users
+- Identify churn patterns
+- Evaluate acquisition quality
